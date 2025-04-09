@@ -1,4 +1,4 @@
-# 🧠 LUMEN – Layered Unified Model for Explainable Narratives
+# 🧠 LUMEN – Light-based Understanding Model for Explainable Networks
 
 LUMEN é uma arquitetura de rede neural explicável desenvolvida para avaliação de risco médico com base em três domínios principais:
 

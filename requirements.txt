@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+torch
+transformers
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+matplotlib

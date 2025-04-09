@@ -104,4 +104,4 @@ matplotlib
 ## ✨ Autor
 
 Desenvolvido por Joeliton Victor
-📍 Projeto LUMEN – IA explicável a serviço da saúde.
+📍 Projeto LUMEN – IA explicável.

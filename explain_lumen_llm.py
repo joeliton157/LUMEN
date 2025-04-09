@@ -105,7 +105,7 @@ print("\n📋 Explicação gerada:")
 print(response)
 
 # Criar diretório se não existir
-output_dir = "diagnosticos"
+output_dir = "data/diagnosticos"
 os.makedirs(output_dir, exist_ok=True)
 
 # Nome do arquivo com timestamp e ID

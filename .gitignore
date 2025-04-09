@@ -1,11 +1,22 @@
+# ⛔ Arquivos temporários e bytecode
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# ⛔ Checkpoints de notebooks Jupyter
 *.ipynb_checkpoints
+
+# ⛔ Ambientes virtuais e configurações locais
 .env
 *.env
 .vscode/
-models/
-diagnosticos/
-data/*.csv
+
+# ⛔ Dados sensíveis e grandes
+data/*.csv              # Exclui data.csv (gerado por script)
+data/diagnosticos/      # Explicações geradas
+models/                 # Modelos treinados (lumen.pt)
+
+# ⛔ Arquivos temporários de sistema operacional
+.DS_Store
+Thumbs.db

@@ -1,0 +1,43 @@
+Paciente ID: 000
+Risco estimado: 36.89%
+
+Domínio Genético:
+G1: 0.082, G2: 0.039, G3: 0.038, G4: 0.032, G5: 0.032, G6: 0.032, G7: 0.032, G8: 0.112, G9: 0.034, G10: 0.032, G11: 0.032, G12: 0.032, G13: 0.032, G14: 0.091, G15: 0.045, G16: 0.301
+
+Domínio Ambiental:
+A1: 0.062, A2: 0.048, A3: 0.056, A4: 0.056, A5: 0.044, A6: 0.077, A7: 0.055, A8: 0.044, A9: 0.044, A10: 0.065, A11: 0.058, A12: 0.052, A13: 0.089, A14: 0.088, A15: 0.116, A16: 0.044
+
+Domínio Fisiológico:
+R1: 0.098, R2: 0.031, R3: 0.037, R4: 0.031, R5: 0.031, R6: 0.275, R7: 0.031, R8: 0.053, R9: 0.031, R10: 0.031, R11: 0.069, R12: 0.031, R13: 0.084, R14: 0.031, R15: 0.041, R16: 0.099
+
+Explicação:
+Analisando os dados fornecidos, podemos identificar os seguintes pontos:
+
+**1. Quais vetores mais influenciaram o risco final?**
+
+* **Domínio Genético:** O G8 com um valor de 0.112 se destaca como o vetor genético mais influente no risco final (36.89%).  Os demais domínios genéticos apresentam valores relativamente baixos, o que indica que a predisposição genética, neste caso específica, é um fator significativo no risco.
+* **Domínio Fisiológico:** R6 com um valor de 0.275 também contribui significativamente para o risco final.
+
+**2. Qual domínio teve maior impacto?**
+
+* **Domínio Fisiológico:** O R6 (0.275) teve o maior impacto no risco final, indicando uma forte influência de fatores fisiológicos.
+
+**3. Gere uma explicação médica clara e objetiva com base nesses fatores.**
+
+Com base nos dados fornecidos, o paciente ID 000 apresenta um risco estimado de 36.89% que é influenciado por uma combinação de fatores genéticos e fisiológicos.
+
+**A predisposição genética, particularmente o Domínio Genético G8 (0.112), representa um componente significativo da vulnerabilidade do paciente.** A alta pontuação nesse domínio sugere uma maior probabilidade de suscetibilidade a desenvolver a condição em questão.
+
+Adicionalmente, o Domínio Fisiológico R6 (0.275) exerce um impacto considerável no risco final. Esta alta pontuação indica a relevância de fatores fisiológicos, como possíveis disfunções metabólicas ou alterações no funcionamento de sistemas corporais, que estão contribuindo para o risco aumentado.
+
+**É importante ressaltar que este é um risco estimado e necessita de uma análise mais aprofundada, incluindo a avaliação de outros fatores de risco não listados aqui, para determinar o nível de risco exato e orientar as estratégias de prevenção e tratamento.**
+
+---
+
+**Observações:**
+
+*   **Contexto:** Esta análise é baseada apenas nos dados fornecidos. Para uma avaliação completa, seria necessário conhecer a condição a ser avaliada, a metodologia de coleta dos dados e a população de referência.
+*   **Objetividade:** A explicação foi elaborada com base nos dados e utilizando uma linguagem técnica e objetiva, evitando termos subjetivos ou interpretativos.
+*   **Limitações:** Esta análise não pode determinar a causa específica do risco. É crucial conduzir uma investigação mais detalhada para identificar os mecanismos subjacentes.
+
+Se precisar de mais alguma análise ou informação, me diga.
